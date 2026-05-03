@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    { "source": "/hub-clientes", "destination": "/hub-clientes.html" },
+    { "source": "/servicios", "destination": "/mimi-servicios/cliente.html" },
+    { "source": "/prestador", "destination": "/mimi-servicios/prestador.html" },
+    { "source": "/viaje", "destination": "/index.html" },
+    { "source": "/operadores", "destination": "/admin/admin-panel.html" },
+    { "source": "/chofer", "destination": "/chofer-panel.html" },
+    { "source": "/privacidad", "destination": "/privacidad.html" },
+    { "source": "/terminos", "destination": "/terminos.html" }
+  ]
+}
