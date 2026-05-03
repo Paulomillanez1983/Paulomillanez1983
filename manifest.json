@@ -1,0 +1,12 @@
+{
+  "id": "/",
+  "name": "MIMI Go",
+  "short_name": "MIMI Go",
+  "start_url": "/hub-clientes",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0b5ed7",
+  "background_color": "#ffffff",
+  "icons": []
+}
